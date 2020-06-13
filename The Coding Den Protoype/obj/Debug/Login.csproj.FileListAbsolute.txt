@@ -1,0 +1,38 @@
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\bin\Debug\Login.exe.config
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\bin\Debug\Login.exe
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\bin\Debug\Login.pdb
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\obj\Debug\Login.exe
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\obj\Debug\Login.pdb
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\obj\Debug\Login.Dashboard.resources
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\obj\Debug\Login.Login.resources
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\obj\Debug\Login.NewClub.resources
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\obj\Debug\Login.EditClub.resources
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\obj\Debug\Login.Archived.resources
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\obj\Debug\Login.ActiveClubsReport.resources
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\obj\Debug\Login.ClubActivitiesReport.resources
+C:\Users\lauju\OneDrive - Asia Pacific University\Y1 Sem2\IOOP\Project files\Login\obj\Debug\Login.SelectDate.resources
+D:\IOOP\Club(Admin)\bin\Debug\Login.exe.config
+D:\IOOP\Club(Admin)\bin\Debug\Login.exe
+D:\IOOP\Club(Admin)\bin\Debug\Login.pdb
+D:\IOOP\Club(Admin)\obj\Debug\Login.csprojAssemblyReference.cache
+D:\IOOP\Club(Admin)\obj\Debug\Login.ActiveClubsReport.resources
+D:\IOOP\Club(Admin)\obj\Debug\Login.Archived.resources
+D:\IOOP\Club(Admin)\obj\Debug\Login.ClubActivitiesReport.resources
+D:\IOOP\Club(Admin)\obj\Debug\Secretary.ClubDescription.resources
+D:\IOOP\Club(Admin)\obj\Debug\Login.Dashboard.resources
+D:\IOOP\Club(Admin)\obj\Debug\Login.EditClub.resources
+D:\IOOP\Club(Admin)\obj\Debug\WindowsFormsApp2.Search.resources
+D:\IOOP\Club(Admin)\obj\Debug\WindowsFormsApp2.CD.resources
+D:\IOOP\Club(Admin)\obj\Debug\Login.Login.resources
+D:\IOOP\Club(Admin)\obj\Debug\Login.NewClub.resources
+D:\IOOP\Club(Admin)\obj\Debug\Login.Properties.Resources.resources
+D:\IOOP\Club(Admin)\obj\Debug\Login.SelectDate.resources
+D:\IOOP\Club(Admin)\obj\Debug\Secretary.WeeklyReport.resources
+D:\IOOP\Club(Admin)\obj\Debug\Login.csproj.GenerateResource.cache
+D:\IOOP\Club(Admin)\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\IOOP\Club(Admin)\obj\Debug\Login.exe
+D:\IOOP\Club(Admin)\obj\Debug\Login.pdb

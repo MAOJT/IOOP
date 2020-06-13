@@ -1,0 +1,21 @@
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\bin\Debug\Login.exe.config
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\bin\Debug\Login.exe
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\bin\Debug\Login.pdb
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\The Coding Den Protoype.csprojAssemblyReference.cache
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\Login.ActiveClubsReport.resources
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\Login.Archived.resources
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\Login.ClubActivitiesReport.resources
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\Secretary.ClubDescription.resources
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\Login.Dashboard.resources
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\Login.EditClub.resources
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\WindowsFormsApp2.Search.resources
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\WindowsFormsApp2.CD.resources
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\Login.Login.resources
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\Login.NewClub.resources
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\Login.Properties.Resources.resources
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\Login.SelectDate.resources
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\Secretary.WeeklyReport.resources
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\The Coding Den Protoype.csproj.GenerateResource.cache
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\The Coding Den Protoype.csproj.CoreCompileInputs.cache
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\Login.exe
+C:\Users\sccdj\Desktop\IOOP\The Coding Den Protoype\obj\Debug\Login.pdb
